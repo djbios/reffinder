@@ -1,0 +1,4 @@
+rutermextract
+beautifulsoup4
+bibtexparser
+googletrans
